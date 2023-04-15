@@ -1,0 +1,13 @@
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/bin/Debug/netcoreapp3.1/CarMaintenance.deps.json
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/bin/Debug/netcoreapp3.1/CarMaintenance.runtimeconfig.json
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/bin/Debug/netcoreapp3.1/CarMaintenance.runtimeconfig.dev.json
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/bin/Debug/netcoreapp3.1/CarMaintenance.dll
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/bin/Debug/netcoreapp3.1/CarMaintenance.pdb
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.csproj.AssemblyReference.cache
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.AssemblyInfoInputs.cache
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.AssemblyInfo.cs
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.csproj.CoreCompileInputs.cache
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.dll
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.pdb
+/Users/jeancarlhenryflorexil/Projects/CarMaintenance/CarMaintenance/obj/Debug/netcoreapp3.1/CarMaintenance.genruntimeconfig.cache
